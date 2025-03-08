@@ -11,13 +11,13 @@
     include "inc/headwnav.inc.php";
     ?>
 
-    <main class="container">
-    <?php
-    include "inc/featured-products.inc.php";
-    include "inc/lifestyle-section.inc.php";
-    ?>
-    </main>
-
+//working atm..
+    //<main class="container">
+   // <?php
+  //  include "inc/featured-products.inc.php";
+  //  include "inc/lifestyle-section.inc.php";
+   // ?>
+   // </main>
 
 <?php
 include "inc/footer.inc.php";
