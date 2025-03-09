@@ -159,3 +159,9 @@ footer .btn-custom:hover {
     background-color: #413d3b;
     border-color: #fffdf9;
   }
+
+#login-form {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #FFFAF9;
+}
